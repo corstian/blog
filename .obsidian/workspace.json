@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "cf1ffb07bda6f9bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9284bca1368daa60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7825c3a3a533ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36ad9fa9ec0bbdb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "18dc12349cf7c074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceea65d58a418c1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "045929d85e371bac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#software",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "275a1280fa4c7c9b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 459.5
+  },
+  "right": {
+    "id": "3450704d01aaf027",
+    "type": "split",
+    "children": [
+      {
+        "id": "c85df0c550d60fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4ed45761ee343e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd83f6ce17858217",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e94dff56eb4c6956",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ee887a74285b00d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f7825c3a3a533ed5",
+  "lastOpenFiles": [
+    "zettels/202010020000 improving-the-spatial-map-object.md",
+    "zettels/202009290000 state-machines-for-realtime-data-processing.md",
+    "zettels/202009230000 hiding-react-component-props-within-a-shadow-state.md",
+    "zettels/202009220000 handling-a-datetime-input-with-react.md",
+    "zettels/202009050000 force-a-component-to-unmount-with-react-navigation.md",
+    "zettels/202301220000 using-the-object-capability-security-model-in-crud-applications.md",
+    "zettels/202301180000 how-there-is-no-longer-a-social-dimension-to-social-media.md",
+    "zettels/202301160000 noisy-language-models.md",
+    "zettels/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
+    "zettels/202208050000 boring-complexity.md",
+    "zettels/202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain.md",
+    "zettels/202207240000 what-is-event-sourcing.md",
+    "zettels/202207220000 the-importance-of-time-and-coherence-in-event-sourced-systems.md",
+    "zettels/202206240000 how-complex-software-impacts-your-cognitive-abilities.md",
+    "zettels/202203240000 estimate-accuracy-and-code-quality.md",
+    "zettels/202203170000 interaction-with-and-integration-of-software-domains.md",
+    "zettels/202203170000 domain-integration-of-external-interactions.md",
+    "zettels/202203010000 using-focal-points-to-describe-code-behaviour.md",
+    "zettels/202202170000 complex-systems-and-cognitive-strain.md",
+    "zettels/202202010000 how-are-domains-and-actor-systems-related.md",
+    "zettels/202201310000 an-event-sourced-domain.md",
+    "zettels/202201270000 more-transparent-command-to-event-transformation.md",
+    "zettels/202201270000 mapping-one-command-to-multiple-events.md",
+    "zettels/202201270000 coarse-commands-emitting-granular-events.md",
+    "zettels/202201210000 implicit-vs-explicit-meetings.md",
+    "zettels/202201200000 event-sourced-aggregates.md",
+    "uploads/IMG_2580_c7a12ed41a.jpg",
+    "uploads/Group_of_People_01_c66bf70699.png",
+    "uploads/medium_anotherscreenshot_c26aa44f25.png",
+    "uploads/large_sketch_1_b6c77e72b9.png",
+    "uploads/small_IMG_2580_8ebd15c5fd.jpg",
+    "uploads/small_pexels_photo_241028_1a36a1ee62.jpeg",
+    "uploads/medium_image_2022_01_31_15_37_48_cbd07dc567.png",
+    "uploads/small_2e6d6b17_39ac_4152_95e8_5d9824132220_x_4095_4095x_faaee53523.bmp",
+    "uploads/photo_2018_05_11_11_07_4_e826c8de11.jpg",
+    "uploads/thumbnail_48214193806_1b82ff1356_c_8b974702de.jpg",
+    "uploads/thumbnail_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
+    "uploads/670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
+    "uploads/large_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
+    "uploads/medium_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
+    "uploads/How_complex_software_impacts_your_cognitive_abilities_680d47d279.pdf",
+    "uploads/small_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
+    "uploads",
+    "zettels",
+    "data-v4.db",
+    "blog/2021-03-08"
+  ]
+}
