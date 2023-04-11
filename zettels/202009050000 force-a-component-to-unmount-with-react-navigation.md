@@ -1,9 +1,9 @@
-
 ---
 title: "Force a component to unmount with React Navigation"
 slug: "force-a-component-to-unmount-with-react-navigation"
 date: "2020-09-05"
 summary: ""
+references: 
 ---
 
 #software-development #react

@@ -1,9 +1,18 @@
-
 ---
 title: "Who is to blame for suicide?"
 slug: "who-is-to-blame-for-suicide"
 date: "2020-07-20"
-summary: "Many ideas surrounding suicide tend to shift the blame towards the person deciding to get rid of their life. In this post I introduce a paradox surrounding those supporting the suicidal person, also potentially being the cause of these suicidal ideations in the first place."
+summary: "Many ideas surrounding suicide tend to shift the blame towards the person deciding to get rid of their life.  
+  
+In this post I introduce a paradox surrounding those supporting the suicidal person, also potentially being the cause of these suicidal ideations in the first place."
+references: 
+  - [[202012210000 about-self-identification-with-substance-abuse]]
+  - [[202110110000 zombification-of-the-mentally-ill]]
+  - [[202110100000 the-paradox-of-the-rational-mind]]
+  - [[202004260000 anxiety-depression-and-uncertainty]]
+  - [[201912260000 about-social-media-advertisements-and-psychological-trauma]]
+  - [[202112170000 group-dynamics-surrounding-identity-appropriation-and-inclusion]]
+  - [[202111080000 the-cruelty-of-emotional-neglect]]
 ---
 
 #psychology #ctrl-alt-del #sociology

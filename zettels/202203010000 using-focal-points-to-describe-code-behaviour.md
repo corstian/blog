@@ -1,9 +1,9 @@
-
 ---
 title: "Using focal points to describe code behaviour"
 slug: "using-focal-points-to-describe-code-behaviour"
 date: "2022-03-01"
 summary: "Looking at code through the 'focal points' of the component might clarify a mismatch between the expected behaviour and that what is actually implemented. Organizing code accordingly to these focal points might provide a huge cognitive benefit to maintainers."
+references: 
 ---
 
 #software-development #philosophy

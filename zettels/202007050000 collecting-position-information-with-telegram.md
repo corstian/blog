@@ -1,9 +1,9 @@
-
 ---
 title: "How to collect location data with Telegram and .NET Core?"
 slug: "collecting-position-information-with-telegram"
 date: "2020-07-05"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet

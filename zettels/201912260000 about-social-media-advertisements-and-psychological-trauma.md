@@ -1,9 +1,11 @@
-
 ---
 title: "About social media, advertisements, and psychological trauma"
 slug: "about-social-media-advertisements-and-psychological-trauma"
 date: "2019-12-26"
 summary: ""
+references: 
+  - [[202301180000 how-there-is-no-longer-a-social-dimension-to-social-media]]
+  - [[202007200000 who-is-to-blame-for-suicide]]
 ---
 
 #psychology #ctrl-alt-del #sociology #social-media

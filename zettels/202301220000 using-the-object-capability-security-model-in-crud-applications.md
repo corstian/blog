@@ -1,9 +1,10 @@
-
 ---
 title: "Using the object capability security model in C# CRUD applications"
 slug: "using-the-object-capability-security-model-in-crud-applications"
 date: "2023-01-22"
 summary: "This post shows an example about how object capabilities can be used in a CRUD application to defer authorization to individual models."
+references: 
+  - [[202208050000 boring-complexity]]
 ---
 
 #software-development #dotnet #web-development #security

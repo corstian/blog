@@ -1,9 +1,11 @@
-
 ---
 title: "Flying at the WBAC"
 slug: "flying-at-the-wbac"
 date: "2015-09-12"
 summary: ""
+references: 
+  - [[201712060000 mountain-gliding-2015]]
+  - [[201705020000 cumulus-granitus-soaring-through-the-mountains]]
 ---
 
 #aviation

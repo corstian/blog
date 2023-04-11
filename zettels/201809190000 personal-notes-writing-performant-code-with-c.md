@@ -1,9 +1,9 @@
-
 ---
 title: "Personal Notes: Writing performant code with C#"
 slug: "personal-notes-writing-performant-code-with-c"
 date: "2018-09-19"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet
@@ -11,6 +11,7 @@ summary: ""
 This post is a short note of the important takeaways from the talk given by Fons Sonnemans with the .NET Zuid usergroup on the topic of writing performant .NET code. I am not the expert on the topics described below. I'm only recollecting what I learned last night. It's one of the talks I was super excited about attending, because well, I do have my own performance problem of sorts.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/fonssonnemans?ref_src=twsrc%5Etfw">@fonssonnemans</a> I&#39;m super excited for your talk on writing performant code in C# 7 already! ;) <a href="https://t.co/O7tBVy11AR">pic.twitter.com/O7tBVy11AR</a></p>&mdash; Corstian Boerman (@CorstianBoerman) <a href="https://twitter.com/CorstianBoerman/status/1034083273478234112?ref_src=twsrc%5Etfw">August 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Fons showed this screenshot of the diagnostic tools to the audience. When I heard someone from the back say "oh shit" I lost it for a brief moment :)

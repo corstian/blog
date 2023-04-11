@@ -1,9 +1,9 @@
-
 ---
 title: "Converting .NET Ticks to MSSQL DateTime and back"
 slug: "converting-net-ticks-to-mssql-datetime-and-back"
 date: "2018-09-21"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet #sql

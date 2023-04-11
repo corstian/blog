@@ -1,9 +1,12 @@
-
 ---
 title: "The benefits of constraints in a layered architecture"
 slug: "the-benefits-of-constraints-in-a-layered-architecture"
 date: "2023-01-15"
 summary: "I hypothesize that a codebase which can be navigated by logical rules provides greater accessibility than one that must be navigated through memorization. This is one of the reasons why small teams could benefit from a layered architecture."
+references: 
+  - [[202201200000 event-sourced-aggregates]]
+  - [[202206240000 how-complex-software-impacts-your-cognitive-abilities]]
+  - [[202208050000 boring-complexity]]
 ---
 
 #software-development

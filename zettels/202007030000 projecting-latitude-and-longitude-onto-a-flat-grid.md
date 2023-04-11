@@ -1,9 +1,9 @@
-
 ---
 title: "Projecting latitude and longitude onto a flat grid"
 slug: "projecting-latitude-and-longitude-onto-a-flat-grid"
 date: "2020-07-03"
 summary: ""
+references: 
 ---
 
 #software-development

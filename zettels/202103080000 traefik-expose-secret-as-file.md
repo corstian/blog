@@ -1,9 +1,9 @@
-
 ---
 title: "Expose a secret as file in Traefik via Helm to configure ACME DNS"
 slug: "traefik-expose-secret-as-file"
 date: "2021-03-08"
 summary: ""
+references: 
 ---
 
 #software-development #devops

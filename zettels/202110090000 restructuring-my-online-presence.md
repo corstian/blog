@@ -1,9 +1,9 @@
-
 ---
 title: "Restructuring my online presence..."
 slug: "restructuring-my-online-presence"
 date: "2021-10-09"
 summary: ""
+references: 
 ---
 
 

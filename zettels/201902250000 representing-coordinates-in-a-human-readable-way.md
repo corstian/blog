@@ -1,9 +1,11 @@
-
 ---
 title: "Representing coordinates in a human readable way"
 slug: "representing-coordinates-in-a-human-readable-way"
 date: "2019-02-25"
 summary: "In an attempt to make coordinates legible without resorting to maps I have tried an approach where I describe the position relative to a know point, such as a city, mountain top, or other landmark."
+references: 
+  - [[202010020000 improving-the-spatial-map-object]]
+  - [[202007230000 high-performance-2d-radius-search]]
 ---
 
 #software-development #dotnet

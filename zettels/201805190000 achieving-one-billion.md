@@ -1,9 +1,10 @@
-
 ---
 title: "Achieving one billion"
 slug: "achieving-one-billion"
 date: "2018-05-19"
 summary: ""
+references: 
+  - [[201801230000 visualizing-airspace-usage-by-glider-aircraft]]
 ---
 
 #software-development #skyhop #data-storage
@@ -46,7 +47,10 @@ And now it contains 1,000,000,000 data points. Actually I'm more proud about thi
 
 A quick calculation shows that these one billion data points represent more then 60 full years of experience flying aircraft in all kinds of conditions. This is more then 20,000 full days.
 
-<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/Bc8L2AhljcI/embed/captioned/?cr=1&amp;v=8&amp;wp=1316&amp;rd=app.cloudcannon.com#%7B%22ci%22%3A0%2C%22os%22%3A274%7D" allowtransparency="true" frameborder="0" height="870" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="max-width: 658px; width: calc(100% - 2px); background-color: white; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; padding: 0px;"></iframe>
+<div dangerouslySetInnerHTML={{
+  __html: `<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/Bc8L2AhljcI/embed/captioned/?cr=1&amp;v=8&amp;wp=1316&amp;rd=app.cloudcannon.com#%7B%22ci%22%3A0%2C%22os%22%3A274%7D" allowtransparency="true" frameborder="0" height="870" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="max-width: 658px; width: calc(100% - 2px); background-color: white; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; padding: 0px;"></iframe>`
+}} />
+
 <script async="" defer="" src="//www.instagram.com/embed.js"></script>
 
 ## What's next?

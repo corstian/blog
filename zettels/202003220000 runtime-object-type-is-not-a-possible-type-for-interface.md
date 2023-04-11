@@ -1,9 +1,11 @@
-
 ---
 title: "GraphQL.NET: Runtime object type is not a possible type for interface"
 slug: "runtime-object-type-is-not-a-possible-type-for-interface"
 date: "2020-03-22"
 summary: ""
+references: 
+  - [[201903110000 how-to-automatically-load-graph-types]]
+  - [[201903080000 implementing-pagination-with-graphql-net-and-relay]]
 ---
 
 #software-development #dotnet #graphql

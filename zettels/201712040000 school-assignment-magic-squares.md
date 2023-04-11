@@ -1,9 +1,9 @@
-
 ---
 title: "School Assignment: Magic Squares"
 slug: "school-assignment-magic-squares"
 date: "2017-12-04"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet

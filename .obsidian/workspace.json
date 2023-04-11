@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md",
-                "mode": "preview",
+                "file": "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7729d2f3c19ec4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#software",
+                "query": "#VisionZero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettels/202010270000 tagging-a-dockerized-react-app-with-build-information.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,34 +155,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7825c3a3a533ed5",
+  "active": "ceea65d58a418c1b",
   "lastOpenFiles": [
-    "zettels/202010020000 improving-the-spatial-map-object.md",
-    "zettels/202009290000 state-machines-for-realtime-data-processing.md",
-    "zettels/202009230000 hiding-react-component-props-within-a-shadow-state.md",
-    "zettels/202009220000 handling-a-datetime-input-with-react.md",
-    "zettels/202009050000 force-a-component-to-unmount-with-react-navigation.md",
-    "zettels/202301220000 using-the-object-capability-security-model-in-crud-applications.md",
-    "zettels/202301180000 how-there-is-no-longer-a-social-dimension-to-social-media.md",
-    "zettels/202301160000 noisy-language-models.md",
-    "zettels/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
-    "zettels/202208050000 boring-complexity.md",
-    "zettels/202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain.md",
-    "zettels/202207240000 what-is-event-sourcing.md",
-    "zettels/202207220000 the-importance-of-time-and-coherence-in-event-sourced-systems.md",
-    "zettels/202206240000 how-complex-software-impacts-your-cognitive-abilities.md",
-    "zettels/202203240000 estimate-accuracy-and-code-quality.md",
-    "zettels/202203170000 interaction-with-and-integration-of-software-domains.md",
-    "zettels/202203170000 domain-integration-of-external-interactions.md",
-    "zettels/202203010000 using-focal-points-to-describe-code-behaviour.md",
-    "zettels/202202170000 complex-systems-and-cognitive-strain.md",
-    "zettels/202202010000 how-are-domains-and-actor-systems-related.md",
-    "zettels/202201310000 an-event-sourced-domain.md",
-    "zettels/202201270000 more-transparent-command-to-event-transformation.md",
-    "zettels/202201270000 mapping-one-command-to-multiple-events.md",
-    "zettels/202201270000 coarse-commands-emitting-granular-events.md",
-    "zettels/202201210000 implicit-vs-explicit-meetings.md",
-    "zettels/202201200000 event-sourced-aggregates.md",
+    "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
+    "zettels/201905270000 rendering-razor-views-by-supplying-a-model-instance.md",
+    "zettels/201903080000 implementing-pagination-with-graphql-net-and-relay.md",
+    "zettels/201903060000 cursor-based-pagination-with-sql-server.md",
+    "zettels/201902120000 generic-data-loaders-for-entity-framework-in-graphql.md",
+    "zettels/201902110000 5-habits-for-writing-reliable-software.md",
+    "zettels/201902250000 representing-coordinates-in-a-human-readable-way.md",
+    "zettels/201408240000 luisterbieb-windows-phone-app.md",
+    "zettels/201509120000 flying-at-the-wbac.md",
+    "zettels/201705020000 cumulus-granitus-soaring-through-the-mountains.md",
+    "zettels/201712040000 school-assignment-magic-squares.md",
+    "zettels/201712060000 mountain-gliding-2015.md",
+    "zettels/201801210000 xkcd-1110-homage.md",
+    "zettels/201801220000 -net-core-application-not-logging-output-to-docker.md",
+    "zettels/201801230000 visualizing-airspace-usage-by-glider-aircraft.md",
+    "zettels/201804230000 scaffolding-an-existing-sql-database-with-entity-framework-core-in-5-minutes.md",
+    "zettels/201805190000 achieving-one-billion.md",
+    "zettels/201805120000 how-to-move-data-from-mssql-to-elasticsearch-at-galactic-speeds.md",
+    "zettels/201809100000 asp-net-core-2-1-and-graphql-adding-jwt-bearer-validation-to-subscriptions.md",
+    "zettels/201809140000 surface-book-2-issues-after-running-updates.md",
+    "zettels/201809190000 personal-notes-writing-performant-code-with-c.md",
+    "zettels/201809210000 converting-net-ticks-to-mssql-datetime-and-back.md",
+    "zettels/201810080000 retrieving-all-polygons-that-overlap-a-single-point.md",
+    "zettels/201811070000 stream-processing-sql-stored-data-in-c.md",
+    "zettels/201812260000 cursor-based-pagination-with-c-and-sql-server.md",
+    "zettels/201911120000 catching-petty-thieves-with-black-magic-and-data.md",
+    "zettels",
+    "data-v4.db",
     "uploads/IMG_2580_c7a12ed41a.jpg",
     "uploads/Group_of_People_01_c66bf70699.png",
     "uploads/medium_anotherscreenshot_c26aa44f25.png",
@@ -195,8 +202,6 @@
     "uploads/How_complex_software_impacts_your_cognitive_abilities_680d47d279.pdf",
     "uploads/small_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
     "uploads",
-    "zettels",
-    "data-v4.db",
-    "blog/2021-03-08"
+    "zettels"
   ]
 }

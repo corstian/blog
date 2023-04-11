@@ -1,9 +1,9 @@
-
 ---
 title: "How to nest Knockout components in a Vue app"
 slug: "integrating-knockoutjs-into-vuejs"
 date: "2019-06-18"
 summary: ""
+references: 
 ---
 
 #software-development #web-development

@@ -1,9 +1,10 @@
-
 ---
 title: "Mutation design with graphql-dotnet"
 slug: "mutation-design-with-graphql-dotnet"
 date: "2021-01-11"
 summary: ""
+references: 
+  - [[201903080000 implementing-pagination-with-graphql-net-and-relay]]
 ---
 
 #software-development #graphql

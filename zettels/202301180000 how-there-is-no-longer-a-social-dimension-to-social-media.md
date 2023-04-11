@@ -1,9 +1,11 @@
-
 ---
 title: "How there is no longer a social dimension to social media"
 slug: "how-there-is-no-longer-a-social-dimension-to-social-media"
 date: "2023-01-18"
 summary: "The social media landscape had changed significantly since I first started using MSN. Since then the role of status updates had changed, moving ever further away from facilitating personal interaction."
+references: 
+  - [[202004260000 anxiety-depression-and-uncertainty]]
+  - [[201912260000 about-social-media-advertisements-and-psychological-trauma]]
 ---
 
 #algorithms #social-media

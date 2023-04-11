@@ -1,15 +1,15 @@
-
 ---
 title: "Catching petty thieves with black magic and data"
 slug: "catching-petty-thieves-with-black-magic-and-data"
 date: "2019-11-12"
 summary: ""
+references: 
 ---
 
 #software-development
 
 > This post sat in my drafts for over a year now. The contents yield no result, but I hope this might inspire you to do something crazy with your day. Honestly, [this idiot whom ran over a cyclist](https://twitter.com/Thund3r_H4wk/status/1194073978123493377?s=20) inspired me to publish this post.
-> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last week&#39;s video highlighted the dangerous design of NYC bike lanes. Today a cyclist in a bike lane (yes, that&#39;s a bike lane) sandwiched between two driving lanes was rear-ended by a van. <a href="https://twitter.com/hashtag/VisionZero?src=hash&amp;ref_src=twsrc%5Etfw">#VisionZero</a> appropriately describes the street lighting. <a href="https://twitter.com/StreetsblogNYC?ref_src=twsrc%5Etfw">@StreetsblogNYC</a> <a href="https://twitter.com/TransAlt?ref_src=twsrc%5Etfw">@TransAlt</a> <a href="https://twitter.com/NYC_DOT?ref_src=twsrc%5Etfw">@NYC_DOT</a> <a href="https://t.co/L1XvWf7YY6">pic.twitter.com/L1XvWf7YY6</a></p>&mdash; Jessica (@Thund3r_H4wk) <a href="https://twitter.com/Thund3r_H4wk/status/1194073978123493377?ref_src=twsrc%5Etfw">November 12, 2019</a></blockquote>
+> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last week&#39;s video highlighted the dangerous design of NYC bike lanes. Today a cyclist in a bike lane (yes, that&#39;s a bike lane) sandwiched between two driving lanes was rear-ended by a van. <a href="https://twitter.com/hashtag/VisionZero?src=hash&amp;ref_src=twsrc%5Etfw">#VisionZero</a> appropriately describes the street lighting. <a href="https://twitter.com/StreetsblogNYC?ref_src=twsrc%5Etfw">@StreetsblogNYC</a> <a href="https://twitter.com/TransAlt?ref_src=twsrc%5Etfw">@TransAlt</a> <a href="https://twitter.com/NYC_DOT?ref_src=twsrc%5Etfw">@NYC_DOT</a> <a href="https://t.co/L1XvWf7YY6">pic.twitter.com/L1XvWf7YY6</a></p>&mdash; Jessica (@Thund3r_H4wk) <a href="https://twitter.com/Thund3r_H4wk/status/1194073978123493377?ref_src=twsrc%5Etfw">November 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 This post is just for shits and giggles. While the actual goal is to catch some petty thieves which did about €400 in damages to a van, I'm not exactly sure whether I'll succeed in that at the time of writing. Let me tell you a little bit of the backstory first.
@@ -18,7 +18,9 @@ So this all started with some petty thieves driving along our company's building
 
 Best thing? It's all caught on camera.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F2013159872267013%2Fvideos%2F311783256263732%2F%3Fhc_ref%3DARRvcoM09jKIzwgGLT9Jhjn_Hyo5iGBDiLZv-lwo-MavGdLULqkZxMeOpJRWidg4S8A%26fref%3Dnf%26__xts__[0]%3D68.ARCH2oCy7Lgcw0DqYqC6vOxXCQ8kWh-cABAne4KnbnffzAirvevWWSzY-suYjATQND7cG2jgC0Rw0tt0T3OgrbKYrlaLxy0Z6tAcHP-DcfuTPNbDSihF6KhLHZU3zMsNgvtU2yqx6K6c2ybOiu30mSphIjC-H9nNR2SRE5gM8GmJP5EhZbWp%26__tn__%3DkC-R&amp;width=500&amp;show_text=false&amp;height=280&amp;appId" style="border:none;overflow:hidden" scrolling="no" allowtransparency="true" allow="encrypted-media" allowfullscreen="true" class="present-before-paste present-before-paste" width="500" height="280" frameborder="0"></iframe>
+<div dangerouslySetInnerHTML={{
+  __html: `<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F2013159872267013%2Fvideos%2F311783256263732%2F%3Fhc_ref%3DARRvcoM09jKIzwgGLT9Jhjn_Hyo5iGBDiLZv-lwo-MavGdLULqkZxMeOpJRWidg4S8A%26fref%3Dnf%26__xts__[0]%3D68.ARCH2oCy7Lgcw0DqYqC6vOxXCQ8kWh-cABAne4KnbnffzAirvevWWSzY-suYjATQND7cG2jgC0Rw0tt0T3OgrbKYrlaLxy0Z6tAcHP-DcfuTPNbDSihF6KhLHZU3zMsNgvtU2yqx6K6c2ybOiu30mSphIjC-H9nNR2SRE5gM8GmJP5EhZbWp%26__tn__%3DkC-R&amp;width=500&amp;show_text=false&amp;height=280&amp;appId" style="border:none;overflow:hidden" scrolling="no" allowtransparency="true" allow="encrypted-media" allowfullscreen="true" class="present-before-paste present-before-paste" width="500" height="280" frameborder="0"></iframe>`
+}} />
 
 What's our problem then? Didn't we get 'em? Well, not exactly. We're not able to see their license plate due to overexposure. First thing we'd be trying was to alter the exposure of our imagery to try to get to see some numbers, but no. That did not work.
 

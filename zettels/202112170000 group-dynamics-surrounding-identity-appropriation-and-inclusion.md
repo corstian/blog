@@ -1,9 +1,10 @@
-
 ---
 title: "Group dynamics surrounding identity, appropriation and inclusion"
 slug: "group-dynamics-surrounding-identity-appropriation-and-inclusion"
 date: "2021-12-17"
 summary: ""
+references: 
+  - [[202007200000 who-is-to-blame-for-suicide]]
 ---
 
 #psychology #ctrl-alt-del #sociology

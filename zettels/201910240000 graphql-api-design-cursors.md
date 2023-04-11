@@ -1,9 +1,10 @@
-
 ---
 title: "GraphQL API Design: Cursor"
 slug: "graphql-api-design-cursors"
 date: "2019-10-24"
 summary: ""
+references: 
+  - [[201903080000 implementing-pagination-with-graphql-net-and-relay]]
 ---
 
 #software-development #dotnet #graphql

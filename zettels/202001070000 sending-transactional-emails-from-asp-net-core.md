@@ -1,9 +1,9 @@
-
 ---
 title: "How to send emails from asp.net core using Razor templates?"
 slug: "sending-transactional-emails-from-asp-net-core"
 date: "2020-01-07"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet #email

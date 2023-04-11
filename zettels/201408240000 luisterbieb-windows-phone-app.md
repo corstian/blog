@@ -1,9 +1,9 @@
-
 ---
 title: "Luisterbieb Windows Phone App"
 slug: "luisterbieb-windows-phone-app"
 date: "2014-08-24"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet

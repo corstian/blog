@@ -1,9 +1,11 @@
-
 ---
 title: "How to effectively observe the runtime behaviour of your core domain"
 slug: "how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain"
 date: "2022-07-25"
 summary: "Logging statements have no place in the domain. There are multiple better alternatives you should use instead!"
+references: 
+  - [[202110130000 using-aggregates-in-actor-systems]]
+  - [[202208050000 boring-complexity]]
 ---
 
 #software-development #dotnet

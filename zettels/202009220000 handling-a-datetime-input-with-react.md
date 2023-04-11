@@ -1,9 +1,9 @@
-
 ---
 title: "Dealing with a datetime input in React?"
 slug: "handling-a-datetime-input-with-react"
 date: "2020-09-22"
 summary: ""
+references: 
 ---
 
 #software-development #web-development #react

@@ -1,9 +1,10 @@
-
 ---
 title: "GraphQL.NET: Authorization"
 slug: "graphql-dotnet-authorization"
 date: "2019-12-16"
 summary: ""
+references: 
+  - [[201903080000 implementing-pagination-with-graphql-net-and-relay]]
 ---
 
 #software-development #dotnet #graphql

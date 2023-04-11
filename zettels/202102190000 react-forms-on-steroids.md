@@ -1,9 +1,9 @@
-
 ---
 title: "React forms on steroids"
 slug: "react-forms-on-steroids"
 date: "2021-02-19"
 summary: "If there is one thing I hate about web development it is creating input forms. In this post I'm about to explore some techniques to make form creation using React somewhat easier."
+references: 
 ---
 
 #software-development #web-development #react

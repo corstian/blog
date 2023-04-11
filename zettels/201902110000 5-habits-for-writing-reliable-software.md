@@ -1,9 +1,9 @@
-
 ---
 title: "5 habits for writing reliable software"
 slug: "5-habits-for-writing-reliable-software"
 date: "2019-02-11"
 summary: ""
+references: 
 ---
 
 #software-development

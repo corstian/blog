@@ -1,9 +1,9 @@
-
 ---
 title: "Open sourcing some old projects"
 slug: "open-sourcing-some-old-projects"
 date: "2020-06-04"
 summary: ""
+references: 
 ---
 
 #software-development

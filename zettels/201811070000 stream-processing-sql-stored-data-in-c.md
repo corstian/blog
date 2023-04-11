@@ -1,9 +1,9 @@
-
 ---
 title: "Stream processing SQL-stored data in C#"
 slug: "stream-processing-sql-stored-data-in-c"
 date: "2018-11-07"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet #sql

@@ -1,9 +1,12 @@
-
 ---
 title: "How to set up Traefik on Kubernetes?"
 slug: "configuring-traefik-on-kubernetes"
 date: "2021-03-17"
 summary: "Recently I started playing around with Traefik on Kubernetes and wanted to request wildcard LetsEncrypt certificates."
+references: 
+  - [[202103040000 setting-up-a-basic-kubernetes-cluster]]
+  - [[202101310000 accessing-the-file-system-with-asp-net-core-and-docker]]
+  - [[202010270000 tagging-a-dockerized-react-app-with-build-information]]
 ---
 
 #software-development #devops

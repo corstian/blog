@@ -1,9 +1,9 @@
-
 ---
 title: "Similar string search with the Levenshtein distance on SQL Server"
 slug: "similar-string-search-with-the-levenshtein-distance-on-sql-server"
 date: "2021-02-01"
 summary: "Recently I have been looking for more flexible ways to search through text within a SQL database, and I stumbled upon a suggestion which indicated to use the so called Levenshtein distance."
+references: 
 ---
 
 #software-development #sql #data-storage

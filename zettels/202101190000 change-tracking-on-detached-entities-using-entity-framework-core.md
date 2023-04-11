@@ -1,9 +1,9 @@
-
 ---
 title: "Change tracking on detached entities using Entity Framework Core"
 slug: "change-tracking-on-detached-entities-using-entity-framework-core"
 date: "2021-01-19"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet

@@ -1,9 +1,19 @@
-
 ---
 title: "Boring Complexity"
 slug: "boring-complexity"
 date: "2022-08-05"
 summary: "There are problems in the software industry that have been solved a hundred-thousand times, and will be solved a hundred-thousand more. Rather than re-inventing solutions to these common problems we should be engaging in a discussion about meta-development practices instead."
+references: 
+  - [[202110130000 using-aggregates-in-actor-systems]]
+  - [[202202170000 complex-systems-and-cognitive-strain]]
+  - [[202203240000 estimate-accuracy-and-code-quality]]
+  - [[202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain]]
+  - [[202301150000 the-benefits-of-constraints-in-a-layered-architecture]]
+  - [[202301220000 using-the-object-capability-security-model-in-crud-applications]]
+  - [[202201200000 event-sourced-aggregates]]
+  - [[202206240000 how-complex-software-impacts-your-cognitive-abilities]]
+  - [[202207220000 the-importance-of-time-and-coherence-in-event-sourced-systems]]
+  - [[202207240000 what-is-event-sourcing]]
 ---
 
 #software-development #philosophy

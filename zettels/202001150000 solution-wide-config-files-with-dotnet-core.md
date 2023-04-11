@@ -1,9 +1,9 @@
-
 ---
 title: "Solution wide config files with .NET Core"
 slug: "solution-wide-config-files-with-dotnet-core"
 date: "2020-01-15"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet

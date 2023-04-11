@@ -1,9 +1,9 @@
-
 ---
 title: "Entity Framework Core: insert or update, the lazy way"
 slug: "entity-framework-core-insert-or-update"
 date: "2019-03-30"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet #data-storage

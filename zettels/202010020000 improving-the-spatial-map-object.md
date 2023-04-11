@@ -1,9 +1,11 @@
-
 ---
 title: "Improving the spatial map object"
 slug: "improving-the-spatial-map-object"
 date: "2020-10-02"
 summary: ""
+references: 
+  - [[202007230000 high-performance-2d-radius-search]]
+  - [[201902250000 representing-coordinates-in-a-human-readable-way]]
 ---
 
 #software-development

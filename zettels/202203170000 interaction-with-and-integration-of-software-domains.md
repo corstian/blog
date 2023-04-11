@@ -1,9 +1,9 @@
-
 ---
 title: "Interaction with and integration of software domains"
 slug: "interaction-with-and-integration-of-software-domains"
 date: "2022-03-17"
 summary: "A software domain has the privilege to live in total isolation from any other component in the codebase, though it must be consumed by other components. By generalizing the interaction pattern to the domain one can greatly simplify these integration points."
+references: 
 ---
 
 #software-development

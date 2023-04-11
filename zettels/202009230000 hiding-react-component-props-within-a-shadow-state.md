@@ -1,9 +1,9 @@
-
 ---
 title: "Hiding React component props within a shadow state"
 slug: "hiding-react-component-props-within-a-shadow-state"
 date: "2020-09-23"
 summary: ""
+references: 
 ---
 
 #software-development #web-development #react

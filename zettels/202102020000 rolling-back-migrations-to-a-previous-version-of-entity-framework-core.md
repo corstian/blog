@@ -1,9 +1,9 @@
-
 ---
 title: "Rolling back migrations to a previous version of Entity Framework Core"
 slug: "rolling-back-migrations-to-a-previous-version-of-entity-framework-core"
 date: "2021-02-02"
 summary: "I discovered there was a dependency incompatibility between EF Core 5 and SqlKata. I weighted my options, and decided it would be easier to revert back to EF Core 3, than to solve this dependency compatibility issue in another way."
+references: 
 ---
 
 #software-development #dotnet

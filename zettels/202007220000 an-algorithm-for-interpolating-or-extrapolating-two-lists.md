@@ -1,9 +1,11 @@
-
 ---
 title: "An algorithm for interpolating or extrapolating two lists"
 slug: "an-algorithm-for-interpolating-or-extrapolating-two-lists"
 date: "2020-07-22"
-summary: "Having my brain eat itself while trying to interpolate two data sets to one another I came up with this working, though overly complicated solution. It works, but can be implemented in a much less convoluted mess."
+summary: "Having my brain eat itself while trying to interpolate two data sets to one another I came up with this working, though overly complicated solution.  
+  
+It works, but can be implemented in a much less convoluted mess."
+references: 
 ---
 
 #software-development #dotnet #algorithms

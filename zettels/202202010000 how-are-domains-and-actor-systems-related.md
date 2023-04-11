@@ -1,9 +1,9 @@
-
 ---
 title: "How are domains and actor systems related?"
 slug: "how-are-domains-and-actor-systems-related"
 date: "2022-02-01"
 summary: "A software domain and an actor system both solve specific problems, and yet they complement each other in the creation of scalable and yet testable system. Some thoughts about how they interact."
+references: 
 ---
 
 #software-development

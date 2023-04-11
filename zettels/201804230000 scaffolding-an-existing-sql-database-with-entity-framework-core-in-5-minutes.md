@@ -1,9 +1,9 @@
-
 ---
 title: "Scaffolding an existing SQL database with Entity Framework Core in 5 minutes"
 slug: "scaffolding-an-existing-sql-database-with-entity-framework-core-in-5-minutes"
 date: "2018-04-23"
 summary: ""
+references: 
 ---
 
 #software-development #dotnet #sql #data-storage

@@ -1,9 +1,12 @@
-
 ---
 title: "How to automatically load graph types in the DI container."
 slug: "how-to-automatically-load-graph-types"
 date: "2019-03-11"
 summary: ""
+references: 
+  - [[202003220000 runtime-object-type-is-not-a-possible-type-for-interface]]
+  - [[201903080000 implementing-pagination-with-graphql-net-and-relay]]
+  - [[201902120000 generic-data-loaders-for-entity-framework-in-graphql]]
 ---
 
 #software-development #dotnet #graphql

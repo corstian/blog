@@ -1,9 +1,11 @@
-
 ---
 title: "How to add build information to a dockerized React app? (Docker Hub)"
 slug: "tagging-a-dockerized-react-app-with-build-information"
 date: "2020-10-27"
 summary: ""
+references: 
+  - [[202103170000 configuring-traefik-on-kubernetes]]
+  - [[201801220000 -net-core-application-not-logging-output-to-docker]]
 ---
 
 #software-development #devops

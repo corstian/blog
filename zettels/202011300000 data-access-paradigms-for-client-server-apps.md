@@ -1,9 +1,9 @@
-
 ---
 title: "Data access paradigms for client/server apps"
 slug: "data-access-paradigms-for-client-server-apps"
 date: "2020-11-30"
 summary: ""
+references: 
 ---
 
 #software-development

@@ -1,9 +1,12 @@
-
 ---
 title: "Zombification of the mentally ill"
 slug: "zombification-of-the-mentally-ill"
 date: "2021-10-11"
 summary: "With the 'zombification of the mentally ill' I refer to a process where those dealing with mental health issues are muted due an underlying and unconscious fear one will eventually have to face their own trauma."
+references: 
+  - [[202110290000 the-destruction-of-interpersonal-relationships]]
+  - [[202111080000 the-cruelty-of-emotional-neglect]]
+  - [[202007200000 who-is-to-blame-for-suicide]]
 ---
 
 #psychology #philosophy #ctrl-alt-del
