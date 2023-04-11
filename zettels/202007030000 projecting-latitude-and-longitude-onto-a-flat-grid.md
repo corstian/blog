@@ -1,4 +1,3 @@
-
 ---
 title: "Projecting latitude and longitude onto a flat grid"
 slug: "projecting-latitude-and-longitude-onto-a-flat-grid"

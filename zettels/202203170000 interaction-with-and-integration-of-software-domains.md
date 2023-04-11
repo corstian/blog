@@ -1,4 +1,3 @@
-
 ---
 title: "Interaction with and integration of software domains"
 slug: "interaction-with-and-integration-of-software-domains"

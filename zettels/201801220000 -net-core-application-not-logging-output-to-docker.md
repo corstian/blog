@@ -1,4 +1,3 @@
-
 ---
 title: ".NET core application not logging output to Docker"
 slug: "-net-core-application-not-logging-output-to-docker"

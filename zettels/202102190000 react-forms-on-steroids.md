@@ -1,4 +1,3 @@
-
 ---
 title: "React forms on steroids"
 slug: "react-forms-on-steroids"

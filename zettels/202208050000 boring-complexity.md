@@ -1,4 +1,3 @@
-
 ---
 title: "Boring Complexity"
 slug: "boring-complexity"

@@ -1,4 +1,3 @@
-
 ---
 title: "Achieving one billion"
 slug: "achieving-one-billion"

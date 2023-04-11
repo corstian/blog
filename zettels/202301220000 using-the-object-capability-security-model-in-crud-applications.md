@@ -1,4 +1,3 @@
-
 ---
 title: "Using the object capability security model in C# CRUD applications"
 slug: "using-the-object-capability-security-model-in-crud-applications"

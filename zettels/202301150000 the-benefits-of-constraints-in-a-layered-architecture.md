@@ -1,4 +1,3 @@
-
 ---
 title: "The benefits of constraints in a layered architecture"
 slug: "the-benefits-of-constraints-in-a-layered-architecture"

@@ -1,4 +1,3 @@
-
 ---
 title: "Using focal points to describe code behaviour"
 slug: "using-focal-points-to-describe-code-behaviour"

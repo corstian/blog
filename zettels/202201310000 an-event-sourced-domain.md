@@ -1,4 +1,3 @@
-
 ---
 title: "What makes an event sourced domain?"
 slug: "an-event-sourced-domain"

@@ -1,4 +1,3 @@
-
 ---
 title: "Data access paradigms for client/server apps"
 slug: "data-access-paradigms-for-client-server-apps"

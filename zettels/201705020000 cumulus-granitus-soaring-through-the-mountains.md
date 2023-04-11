@@ -1,4 +1,3 @@
-
 ---
 title: "Cumulus Granitus (Soaring through the mountains)"
 slug: "cumulus-granitus-soaring-through-the-mountains"

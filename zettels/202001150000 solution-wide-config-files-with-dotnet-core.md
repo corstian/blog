@@ -1,4 +1,3 @@
-
 ---
 title: "Solution wide config files with .NET Core"
 slug: "solution-wide-config-files-with-dotnet-core"

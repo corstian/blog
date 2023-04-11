@@ -1,4 +1,3 @@
-
 ---
 title: "How code quality positively impacts the accuracy of estimates"
 slug: "estimate-accuracy-and-code-quality"

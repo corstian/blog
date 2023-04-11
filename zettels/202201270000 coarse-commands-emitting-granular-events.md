@@ -1,4 +1,3 @@
-
 ---
 title: "Coarse commands emitting granular events"
 slug: "coarse-commands-emitting-granular-events"

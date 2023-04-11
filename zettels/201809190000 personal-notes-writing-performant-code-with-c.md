@@ -1,4 +1,3 @@
-
 ---
 title: "Personal Notes: Writing performant code with C#"
 slug: "personal-notes-writing-performant-code-with-c"

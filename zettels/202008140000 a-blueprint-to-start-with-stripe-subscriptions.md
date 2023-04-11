@@ -1,4 +1,3 @@
-
 ---
 title: "A Blueprint to Start With Stripe Subscriptions (using .NET)"
 slug: "a-blueprint-to-start-with-stripe-subscriptions"

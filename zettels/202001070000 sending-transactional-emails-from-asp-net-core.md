@@ -1,4 +1,3 @@
-
 ---
 title: "How to send emails from asp.net core using Razor templates?"
 slug: "sending-transactional-emails-from-asp-net-core"

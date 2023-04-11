@@ -1,4 +1,3 @@
-
 ---
 title: "The cruelty of emotional neglect"
 slug: "the-cruelty-of-emotional-neglect"

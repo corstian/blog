@@ -1,4 +1,3 @@
-
 ---
 title: "Asynchronous streams in C# and scrolling through ElasticSearch with NEST"
 slug: "asynchronous-streams-in-csharp-and-scrolling-through-elasticsearch-with-nest"

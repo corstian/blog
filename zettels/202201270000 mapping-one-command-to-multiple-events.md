@@ -1,4 +1,3 @@
-
 ---
 title: "Can I map one command to multiple events?"
 slug: "mapping-one-command-to-multiple-events"

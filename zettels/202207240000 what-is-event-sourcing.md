@@ -1,4 +1,3 @@
-
 ---
 title: "What is Event Sourcing?"
 slug: "what-is-event-sourcing"

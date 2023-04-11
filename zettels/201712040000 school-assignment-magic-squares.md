@@ -1,4 +1,3 @@
-
 ---
 title: "School Assignment: Magic Squares"
 slug: "school-assignment-magic-squares"

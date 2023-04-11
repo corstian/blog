@@ -1,4 +1,3 @@
-
 ---
 title: "Zombification of the mentally ill"
 slug: "zombification-of-the-mentally-ill"

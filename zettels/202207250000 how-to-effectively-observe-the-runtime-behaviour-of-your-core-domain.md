@@ -1,4 +1,3 @@
-
 ---
 title: "How to effectively observe the runtime behaviour of your core domain"
 slug: "how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain"

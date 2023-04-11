@@ -1,4 +1,3 @@
-
 ---
 title: "Who is to blame for suicide?"
 slug: "who-is-to-blame-for-suicide"

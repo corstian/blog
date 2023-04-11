@@ -1,4 +1,3 @@
-
 ---
 title: "Rendering Razor views by supplying a model instance"
 slug: "rendering-razor-views-by-supplying-a-model-instance"

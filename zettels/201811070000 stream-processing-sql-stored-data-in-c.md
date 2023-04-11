@@ -1,4 +1,3 @@
-
 ---
 title: "Stream processing SQL-stored data in C#"
 slug: "stream-processing-sql-stored-data-in-c"

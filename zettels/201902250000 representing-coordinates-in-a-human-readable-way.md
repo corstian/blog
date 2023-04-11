@@ -1,4 +1,3 @@
-
 ---
 title: "Representing coordinates in a human readable way"
 slug: "representing-coordinates-in-a-human-readable-way"

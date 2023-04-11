@@ -1,4 +1,3 @@
-
 ---
 title: "How to move data from MSSQL to ElasticSearch at galactic speeds"
 slug: "how-to-move-data-from-mssql-to-elasticsearch-at-galactic-speeds"

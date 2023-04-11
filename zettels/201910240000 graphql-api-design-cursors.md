@@ -1,4 +1,3 @@
-
 ---
 title: "GraphQL API Design: Cursor"
 slug: "graphql-api-design-cursors"

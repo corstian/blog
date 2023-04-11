@@ -1,4 +1,3 @@
-
 ---
 title: "How to create GraphQL data loaders for Entity Framework?"
 slug: "generic-data-loaders-for-entity-framework-in-graphql"

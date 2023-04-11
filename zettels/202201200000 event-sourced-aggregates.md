@@ -1,4 +1,3 @@
-
 ---
 title: "Creating event sourced aggregates with C#"
 slug: "event-sourced-aggregates"

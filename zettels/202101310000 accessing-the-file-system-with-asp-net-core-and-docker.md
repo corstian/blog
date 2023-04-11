@@ -1,4 +1,3 @@
-
 ---
 title: "Accessing the filesystem with an asp.net core app run on Docker"
 slug: "accessing-the-file-system-with-asp-net-core-and-docker"

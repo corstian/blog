@@ -1,4 +1,3 @@
-
 ---
 title: "The importance of time and coherence in event sourced systems"
 slug: "the-importance-of-time-and-coherence-in-event-sourced-systems"

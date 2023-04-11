@@ -1,4 +1,3 @@
-
 ---
 title: "Hiding React component props within a shadow state"
 slug: "hiding-react-component-props-within-a-shadow-state"

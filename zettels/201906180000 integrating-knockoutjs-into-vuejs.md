@@ -1,4 +1,3 @@
-
 ---
 title: "How to nest Knockout components in a Vue app"
 slug: "integrating-knockoutjs-into-vuejs"

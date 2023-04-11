@@ -1,4 +1,3 @@
-
 ---
 title: "The paradox of the rational mind"
 slug: "the-paradox-of-the-rational-mind"

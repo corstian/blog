@@ -1,4 +1,3 @@
-
 ---
 title: "How to add build information to a dockerized React app? (Docker Hub)"
 slug: "tagging-a-dockerized-react-app-with-build-information"

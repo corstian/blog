@@ -1,4 +1,3 @@
-
 ---
 title: "Entity Framework Core: insert or update, the lazy way"
 slug: "entity-framework-core-insert-or-update"

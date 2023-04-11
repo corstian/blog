@@ -1,4 +1,3 @@
-
 ---
 title: "Similar string search with the Levenshtein distance on SQL Server"
 slug: "similar-string-search-with-the-levenshtein-distance-on-sql-server"

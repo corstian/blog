@@ -1,4 +1,3 @@
-
 ---
 title: "Dealing with a datetime input in React?"
 slug: "handling-a-datetime-input-with-react"

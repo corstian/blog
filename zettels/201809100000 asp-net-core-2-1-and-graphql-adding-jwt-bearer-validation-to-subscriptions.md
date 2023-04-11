@@ -1,4 +1,3 @@
-
 ---
 title: "How to add JWT Bearer auth to GraphQL subscriptions on ASP.NET Core 2.1?"
 slug: "asp-net-core-2-1-and-graphql-adding-jwt-bearer-validation-to-subscriptions"

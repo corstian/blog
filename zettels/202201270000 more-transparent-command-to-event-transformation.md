@@ -1,4 +1,3 @@
-
 ---
 title: "More transparent command to event transformation"
 slug: "more-transparent-command-to-event-transformation"

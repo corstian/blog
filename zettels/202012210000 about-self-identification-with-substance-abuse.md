@@ -1,4 +1,3 @@
-
 ---
 title: "About self identification with substance (ab)use"
 slug: "about-self-identification-with-substance-abuse"

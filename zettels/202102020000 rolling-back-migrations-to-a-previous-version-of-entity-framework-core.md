@@ -1,4 +1,3 @@
-
 ---
 title: "Rolling back migrations to a previous version of Entity Framework Core"
 slug: "rolling-back-migrations-to-a-previous-version-of-entity-framework-core"

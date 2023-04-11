@@ -1,4 +1,3 @@
-
 ---
 title: "Open sourcing some old projects"
 slug: "open-sourcing-some-old-projects"

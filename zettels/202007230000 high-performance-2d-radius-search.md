@@ -1,4 +1,3 @@
-
 ---
 title: "High performance 2D radius search"
 slug: "high-performance-2d-radius-search"

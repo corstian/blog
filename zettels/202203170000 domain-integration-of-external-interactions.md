@@ -1,4 +1,3 @@
-
 ---
 title: "Domain integration of external interactions"
 slug: "domain-integration-of-external-interactions"

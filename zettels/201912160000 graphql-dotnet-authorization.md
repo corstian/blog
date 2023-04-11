@@ -1,4 +1,3 @@
-
 ---
 title: "GraphQL.NET: Authorization"
 slug: "graphql-dotnet-authorization"

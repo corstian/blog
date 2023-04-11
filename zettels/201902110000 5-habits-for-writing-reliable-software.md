@@ -1,4 +1,3 @@
-
 ---
 title: "5 habits for writing reliable software"
 slug: "5-habits-for-writing-reliable-software"

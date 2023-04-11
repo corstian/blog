@@ -1,4 +1,3 @@
-
 ---
 title: "How to collect location data with Telegram and .NET Core?"
 slug: "collecting-position-information-with-telegram"

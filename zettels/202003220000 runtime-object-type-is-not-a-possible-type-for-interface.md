@@ -1,4 +1,3 @@
-
 ---
 title: "GraphQL.NET: Runtime object type is not a possible type for interface"
 slug: "runtime-object-type-is-not-a-possible-type-for-interface"

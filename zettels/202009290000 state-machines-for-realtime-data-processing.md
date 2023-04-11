@@ -1,4 +1,3 @@
-
 ---
 title: "State Machines for Realtime Data Processing"
 slug: "state-machines-for-realtime-data-processing"

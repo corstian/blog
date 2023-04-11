@@ -1,4 +1,3 @@
-
 ---
 title: "Setting up a basic Kubernetes cluster"
 slug: "setting-up-a-basic-kubernetes-cluster"

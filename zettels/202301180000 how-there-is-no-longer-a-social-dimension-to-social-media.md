@@ -1,4 +1,3 @@
-
 ---
 title: "How there is no longer a social dimension to social media"
 slug: "how-there-is-no-longer-a-social-dimension-to-social-media"

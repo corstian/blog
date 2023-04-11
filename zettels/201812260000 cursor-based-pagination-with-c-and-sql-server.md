@@ -1,4 +1,3 @@
-
 ---
 title: "Cursor based pagination with C# and SQL Server"
 slug: "cursor-based-pagination-with-c-and-sql-server"

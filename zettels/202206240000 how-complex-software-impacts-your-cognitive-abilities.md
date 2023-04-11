@@ -1,4 +1,3 @@
-
 ---
 title: "How complex software impacts your cognitive abilities"
 slug: "how-complex-software-impacts-your-cognitive-abilities"

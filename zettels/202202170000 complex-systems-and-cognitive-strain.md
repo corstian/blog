@@ -1,4 +1,3 @@
-
 ---
 title: "Complex systems and cognitive strain"
 slug: "complex-systems-and-cognitive-strain"

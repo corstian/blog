@@ -1,4 +1,3 @@
-
 ---
 title: "Restructuring my online presence..."
 slug: "restructuring-my-online-presence"

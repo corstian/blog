@@ -1,4 +1,3 @@
-
 ---
 title: "How to automatically load graph types in the DI container."
 slug: "how-to-automatically-load-graph-types"

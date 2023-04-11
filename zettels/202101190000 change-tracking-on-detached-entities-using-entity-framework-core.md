@@ -1,4 +1,3 @@
-
 ---
 title: "Change tracking on detached entities using Entity Framework Core"
 slug: "change-tracking-on-detached-entities-using-entity-framework-core"

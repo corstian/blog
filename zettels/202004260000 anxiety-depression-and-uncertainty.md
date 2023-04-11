@@ -1,4 +1,3 @@
-
 ---
 title: "A comment on dealing with anxiety, depression and uncertainty"
 slug: "anxiety-depression-and-uncertainty"

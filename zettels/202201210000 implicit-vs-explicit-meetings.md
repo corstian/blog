@@ -1,4 +1,3 @@
-
 ---
 title: "Implicit vs explicit meetings"
 slug: "implicit-vs-explicit-meetings"

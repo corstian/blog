@@ -1,4 +1,3 @@
-
 ---
 title: "Force a component to unmount with React Navigation"
 slug: "force-a-component-to-unmount-with-react-navigation"

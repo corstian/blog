@@ -1,4 +1,3 @@
-
 ---
 title: "Implementing pagination with GraphQL.NET and Relay"
 slug: "implementing-pagination-with-graphql-net-and-relay"

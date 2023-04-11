@@ -1,4 +1,3 @@
-
 ---
 title: "Using aggregates in actor systems"
 slug: "using-aggregates-in-actor-systems"

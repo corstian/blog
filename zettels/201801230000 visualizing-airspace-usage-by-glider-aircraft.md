@@ -1,4 +1,3 @@
-
 ---
 title: "Visualizing airspace usage by glider aircraft"
 slug: "visualizing-airspace-usage-by-glider-aircraft"

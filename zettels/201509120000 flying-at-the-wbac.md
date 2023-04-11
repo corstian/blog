@@ -1,4 +1,3 @@
-
 ---
 title: "Flying at the WBAC"
 slug: "flying-at-the-wbac"

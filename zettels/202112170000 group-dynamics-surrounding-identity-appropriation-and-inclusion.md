@@ -1,4 +1,3 @@
-
 ---
 title: "Group dynamics surrounding identity, appropriation and inclusion"
 slug: "group-dynamics-surrounding-identity-appropriation-and-inclusion"

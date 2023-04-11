@@ -1,4 +1,3 @@
-
 ---
 title: "Converting .NET Ticks to MSSQL DateTime and back"
 slug: "converting-net-ticks-to-mssql-datetime-and-back"

@@ -1,4 +1,3 @@
-
 ---
 title: "Luisterbieb Windows Phone App"
 slug: "luisterbieb-windows-phone-app"

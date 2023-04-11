@@ -1,4 +1,3 @@
-
 ---
 title: "Retrieving all polygons that overlap a single point"
 slug: "retrieving-all-polygons-that-overlap-a-single-point"

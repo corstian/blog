@@ -1,4 +1,3 @@
-
 ---
 title: "Catching petty thieves with black magic and data"
 slug: "catching-petty-thieves-with-black-magic-and-data"

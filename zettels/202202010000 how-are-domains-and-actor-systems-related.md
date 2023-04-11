@@ -1,4 +1,3 @@
-
 ---
 title: "How are domains and actor systems related?"
 slug: "how-are-domains-and-actor-systems-related"

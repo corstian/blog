@@ -1,4 +1,3 @@
-
 ---
 title: "How to set up Traefik on Kubernetes?"
 slug: "configuring-traefik-on-kubernetes"

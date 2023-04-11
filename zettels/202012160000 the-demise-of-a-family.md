@@ -1,4 +1,3 @@
-
 ---
 title: "The demise of a family"
 slug: "the-demise-of-a-family"

@@ -1,4 +1,3 @@
-
 ---
 title: "About social media, advertisements, and psychological trauma"
 slug: "about-social-media-advertisements-and-psychological-trauma"

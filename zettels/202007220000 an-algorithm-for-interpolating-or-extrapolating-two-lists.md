@@ -1,4 +1,3 @@
-
 ---
 title: "An algorithm for interpolating or extrapolating two lists"
 slug: "an-algorithm-for-interpolating-or-extrapolating-two-lists"

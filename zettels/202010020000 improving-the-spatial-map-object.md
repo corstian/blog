@@ -1,4 +1,3 @@
-
 ---
 title: "Improving the spatial map object"
 slug: "improving-the-spatial-map-object"

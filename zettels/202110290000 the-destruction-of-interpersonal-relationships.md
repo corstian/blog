@@ -1,4 +1,3 @@
-
 ---
 title: "The destruction of interpersonal relationships"
 slug: "the-destruction-of-interpersonal-relationships"

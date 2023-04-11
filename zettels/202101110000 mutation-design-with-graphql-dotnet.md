@@ -1,4 +1,3 @@
-
 ---
 title: "Mutation design with graphql-dotnet"
 slug: "mutation-design-with-graphql-dotnet"

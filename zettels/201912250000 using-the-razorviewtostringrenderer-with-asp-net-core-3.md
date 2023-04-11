@@ -1,4 +1,3 @@
-
 ---
 title: "Using the RazorViewToStringRenderer with Asp.Net Core 3"
 slug: "using-the-razorviewtostringrenderer-with-asp-net-core-3"

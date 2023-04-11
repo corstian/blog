@@ -1,4 +1,3 @@
-
 ---
 title: "Surface Book 2 issues after running updates"
 slug: "surface-book-2-issues-after-running-updates"
