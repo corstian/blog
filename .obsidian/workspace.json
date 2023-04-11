@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9284bca1368daa60",
+        "id": "e821f07406f97d31",
         "type": "tabs",
         "children": [
           {
-            "id": "f7825c3a3a533ed5",
+            "id": "3c9bd043cb14baf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,13 +141,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7825c3a3a533ed5",
+  "active": "3c9bd043cb14baf8",
   "lastOpenFiles": [
+    "zettels/202208050000 boring-complexity.md",
+    "zettels/202304120151 test.md",
+    "templates/Zettel.md",
+    "Scripts/sluggify.js",
+    "Scripts",
+    "zettels/202007200000 who-is-to-blame-for-suicide.md",
     "zettels/202003120000 asynchronous-streams-in-csharp-and-scrolling-through-elasticsearch-with-nest.md",
     "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
     "zettels/202301160000 noisy-language-models.md",
     "zettels/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
-    "zettels/202208050000 boring-complexity.md",
     "zettels/202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain.md",
     "zettels/202207240000 what-is-event-sourcing.md",
     "zettels/201408240000 luisterbieb-windows-phone-app.md",
@@ -175,9 +171,6 @@
     "zettels/201809190000 personal-notes-writing-performant-code-with-c.md",
     "zettels/201905270000 rendering-razor-views-by-supplying-a-model-instance.md",
     "zettels/201903080000 implementing-pagination-with-graphql-net-and-relay.md",
-    "zettels/201903060000 cursor-based-pagination-with-sql-server.md",
-    "zettels/201902120000 generic-data-loaders-for-entity-framework-in-graphql.md",
-    "zettels/201902110000 5-habits-for-writing-reliable-software.md",
     "zettels",
     "data-v4.db",
     "uploads/IMG_2580_c7a12ed41a.jpg",
@@ -195,8 +188,6 @@
     "uploads/large_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
     "uploads/medium_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
     "uploads/How_complex_software_impacts_your_cognitive_abilities_680d47d279.pdf",
-    "uploads/small_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
-    "uploads",
-    "zettels"
+    "uploads/small_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc"
   ]
 }
