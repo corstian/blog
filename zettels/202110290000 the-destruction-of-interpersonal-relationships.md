@@ -4,9 +4,9 @@ slug: "the-destruction-of-interpersonal-relationships"
 date: "2021-10-29"
 summary: ""
 references: 
-  - [[202111080000 the-cruelty-of-emotional-neglect]]
-  - [[202110100000 the-paradox-of-the-rational-mind]]
-  - [[202110110000 zombification-of-the-mentally-ill]]
+  - '[[202111080000 the-cruelty-of-emotional-neglect]]'
+  - '[[202110100000 the-paradox-of-the-rational-mind]]'
+  - '[[202110110000 zombification-of-the-mentally-ill]]'
 ---
 
 #ctrl-alt-del

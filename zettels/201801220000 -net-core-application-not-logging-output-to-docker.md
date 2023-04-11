@@ -4,8 +4,8 @@ slug: "-net-core-application-not-logging-output-to-docker"
 date: "2018-01-22"
 summary: ""
 references: 
-  - [[202101310000 accessing-the-file-system-with-asp-net-core-and-docker]]
-  - [[202010270000 tagging-a-dockerized-react-app-with-build-information]]
+  - '[[202101310000 accessing-the-file-system-with-asp-net-core-and-docker]]'
+  - '[[202010270000 tagging-a-dockerized-react-app-with-build-information]]'
 ---
 
 #software-development #dotnet #devops

@@ -4,8 +4,8 @@ slug: "accessing-the-file-system-with-asp-net-core-and-docker"
 date: "2021-01-31"
 summary: "I ran a bunch of experiments to figure out how to access the filesystem from a .NET app running on Docker."
 references: 
-  - [[202103170000 configuring-traefik-on-kubernetes]]
-  - [[201801220000 -net-core-application-not-logging-output-to-docker]]
+  - '[[202103170000 configuring-traefik-on-kubernetes]]'
+  - '[[201801220000 -net-core-application-not-logging-output-to-docker]]'
 ---
 
 #software-development #dotnet #data-storage

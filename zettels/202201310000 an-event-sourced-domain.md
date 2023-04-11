@@ -4,7 +4,7 @@ slug: "an-event-sourced-domain"
 date: "2022-01-31"
 summary: "In an effort to generalize event sourcing to the whole domain I try to adapt concepts previously developed for aggregates to other domain objects such as services, process managers, sagas and repositories."
 references: 
-  - [[202201200000 event-sourced-aggregates]]
+  - '[[202201200000 event-sourced-aggregates]]'
 ---
 
 #software-development #dotnet

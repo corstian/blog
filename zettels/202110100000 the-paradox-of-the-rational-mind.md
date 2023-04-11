@@ -4,10 +4,10 @@ slug: "the-paradox-of-the-rational-mind"
 date: "2021-10-10"
 summary: "I'd argue that those fostering a belief to exist as totally rational beings for the sole reason they deny the existence of emotions, might in fact be the most emotional beings around. This is what I'd call 'the paradox of the rational mind'."
 references: 
-  - [[202110290000 the-destruction-of-interpersonal-relationships]]
-  - [[202111080000 the-cruelty-of-emotional-neglect]]
-  - [[202012160000 the-demise-of-a-family]]
-  - [[202007200000 who-is-to-blame-for-suicide]]
+  - '[[202110290000 the-destruction-of-interpersonal-relationships]]'
+  - '[[202111080000 the-cruelty-of-emotional-neglect]]'
+  - '[[202012160000 the-demise-of-a-family]]'
+  - '[[202007200000 who-is-to-blame-for-suicide]]'
 ---
 
 #psychology #philosophy #ctrl-alt-del

@@ -4,10 +4,10 @@ slug: "the-cruelty-of-emotional-neglect"
 date: "2021-11-08"
 summary: ""
 references: 
-  - [[202007200000 who-is-to-blame-for-suicide]]
-  - [[202110100000 the-paradox-of-the-rational-mind]]
-  - [[202110110000 zombification-of-the-mentally-ill]]
-  - [[202110290000 the-destruction-of-interpersonal-relationships]]
+  - '[[202007200000 who-is-to-blame-for-suicide]]'
+  - '[[202110100000 the-paradox-of-the-rational-mind]]'
+  - '[[202110110000 zombification-of-the-mentally-ill]]'
+  - '[[202110290000 the-destruction-of-interpersonal-relationships]]'
 ---
 
 #psychology #ctrl-alt-del

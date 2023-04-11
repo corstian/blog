@@ -4,16 +4,16 @@ slug: "event-sourced-aggregates"
 date: "2022-01-20"
 summary: "The aggregate is a well understood concept within DDD practices. The addition of event sourcing to the mix might however complicate things, and the once pretty domain is now in shambles. In this post I'll cover the addition of ES, while keeping the awesomeness of DDD in place."
 references: 
-  - [[202110130000 using-aggregates-in-actor-systems]]
-  - [[202208050000 boring-complexity]]
-  - [[202206240000 how-complex-software-impacts-your-cognitive-abilities]]
-  - [[202301150000 the-benefits-of-constraints-in-a-layered-architecture]]
-  - [[202201270000 more-transparent-command-to-event-transformation]]
-  - [[202201270000 coarse-commands-emitting-granular-events]]
-  - [[202201270000 mapping-one-command-to-multiple-events]]
-  - [[202201310000 an-event-sourced-domain]]
-  - [[202207220000 the-importance-of-time-and-coherence-in-event-sourced-systems]]
-  - [[202207240000 what-is-event-sourcing]]
+  - '[[202110130000 using-aggregates-in-actor-systems]]'
+  - '[[202208050000 boring-complexity]]'
+  - '[[202206240000 how-complex-software-impacts-your-cognitive-abilities]]'
+  - '[[202301150000 the-benefits-of-constraints-in-a-layered-architecture]]'
+  - '[[202201270000 more-transparent-command-to-event-transformation]]'
+  - '[[202201270000 coarse-commands-emitting-granular-events]]'
+  - '[[202201270000 mapping-one-command-to-multiple-events]]'
+  - '[[202201310000 an-event-sourced-domain]]'
+  - '[[202207220000 the-importance-of-time-and-coherence-in-event-sourced-systems]]'
+  - '[[202207240000 what-is-event-sourcing]]'
 ---
 
 #software-development #dotnet

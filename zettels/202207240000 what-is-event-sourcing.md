@@ -4,8 +4,8 @@ slug: "what-is-event-sourcing"
 date: "2022-07-24"
 summary: "This post attempts to explain event sourcing through examples showing what it is and what it is not, while highlighting some of the strengths and reasons for using it."
 references: 
-  - [[202201200000 event-sourced-aggregates]]
-  - [[202208050000 boring-complexity]]
+  - '[[202201200000 event-sourced-aggregates]]'
+  - '[[202208050000 boring-complexity]]'
 ---
 
 #software-development #dotnet

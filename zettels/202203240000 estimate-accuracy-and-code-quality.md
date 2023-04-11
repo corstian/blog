@@ -4,9 +4,9 @@ slug: "estimate-accuracy-and-code-quality"
 date: "2022-03-24"
 summary: ""
 references: 
-  - [[202202170000 complex-systems-and-cognitive-strain]]
-  - [[202206240000 how-complex-software-impacts-your-cognitive-abilities]]
-  - [[202208050000 boring-complexity]]
+  - '[[202202170000 complex-systems-and-cognitive-strain]]'
+  - '[[202206240000 how-complex-software-impacts-your-cognitive-abilities]]'
+  - '[[202208050000 boring-complexity]]'
 ---
 
 #software-development #web-development

@@ -4,10 +4,10 @@ slug: "visualizing-airspace-usage-by-glider-aircraft"
 date: "2018-01-23"
 summary: ""
 references: 
-  - [[201810080000 retrieving-all-polygons-that-overlap-a-single-point]]
-  - [[201805190000 achieving-one-billion]]
-  - [[201712060000 mountain-gliding-2015]]
-  - [[201705020000 cumulus-granitus-soaring-through-the-mountains]]
+  - '[[201810080000 retrieving-all-polygons-that-overlap-a-single-point]]'
+  - '[[201805190000 achieving-one-billion]]'
+  - '[[201712060000 mountain-gliding-2015]]'
+  - '[[201705020000 cumulus-granitus-soaring-through-the-mountains]]'
 ---
 
 #software-development #skyhop

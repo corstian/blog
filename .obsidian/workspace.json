@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
+                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d7729d2f3c19ec4a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettels/202007200000 who-is-to-blame-for-suicide.md"
+              }
             }
           }
         ],
@@ -155,15 +150,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ceea65d58a418c1b",
+  "active": "f7825c3a3a533ed5",
   "lastOpenFiles": [
+    "zettels/202003120000 asynchronous-streams-in-csharp-and-scrolling-through-elasticsearch-with-nest.md",
     "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
-    "zettels/201905270000 rendering-razor-views-by-supplying-a-model-instance.md",
-    "zettels/201903080000 implementing-pagination-with-graphql-net-and-relay.md",
-    "zettels/201903060000 cursor-based-pagination-with-sql-server.md",
-    "zettels/201902120000 generic-data-loaders-for-entity-framework-in-graphql.md",
-    "zettels/201902110000 5-habits-for-writing-reliable-software.md",
-    "zettels/201902250000 representing-coordinates-in-a-human-readable-way.md",
+    "zettels/202301160000 noisy-language-models.md",
+    "zettels/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
+    "zettels/202208050000 boring-complexity.md",
+    "zettels/202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain.md",
+    "zettels/202207240000 what-is-event-sourcing.md",
     "zettels/201408240000 luisterbieb-windows-phone-app.md",
     "zettels/201509120000 flying-at-the-wbac.md",
     "zettels/201705020000 cumulus-granitus-soaring-through-the-mountains.md",
@@ -178,11 +173,11 @@
     "zettels/201809100000 asp-net-core-2-1-and-graphql-adding-jwt-bearer-validation-to-subscriptions.md",
     "zettels/201809140000 surface-book-2-issues-after-running-updates.md",
     "zettels/201809190000 personal-notes-writing-performant-code-with-c.md",
-    "zettels/201809210000 converting-net-ticks-to-mssql-datetime-and-back.md",
-    "zettels/201810080000 retrieving-all-polygons-that-overlap-a-single-point.md",
-    "zettels/201811070000 stream-processing-sql-stored-data-in-c.md",
-    "zettels/201812260000 cursor-based-pagination-with-c-and-sql-server.md",
-    "zettels/201911120000 catching-petty-thieves-with-black-magic-and-data.md",
+    "zettels/201905270000 rendering-razor-views-by-supplying-a-model-instance.md",
+    "zettels/201903080000 implementing-pagination-with-graphql-net-and-relay.md",
+    "zettels/201903060000 cursor-based-pagination-with-sql-server.md",
+    "zettels/201902120000 generic-data-loaders-for-entity-framework-in-graphql.md",
+    "zettels/201902110000 5-habits-for-writing-reliable-software.md",
     "zettels",
     "data-v4.db",
     "uploads/IMG_2580_c7a12ed41a.jpg",

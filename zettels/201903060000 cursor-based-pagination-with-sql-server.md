@@ -4,7 +4,7 @@ slug: "cursor-based-pagination-with-sql-server"
 date: "2019-03-06"
 summary: ""
 references: 
-  - [[201903080000 implementing-pagination-with-graphql-net-and-relay]]
+  - '[[201903080000 implementing-pagination-with-graphql-net-and-relay]]'
 ---
 
 #software-development #dotnet #sql #data-storage

@@ -4,7 +4,7 @@ slug: "setting-up-a-basic-kubernetes-cluster"
 date: "2021-03-04"
 summary: ""
 references: 
-  - [[202103170000 configuring-traefik-on-kubernetes]]
+  - '[[202103170000 configuring-traefik-on-kubernetes]]'
 ---
 
 #software-development #devops

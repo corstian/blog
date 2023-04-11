@@ -4,8 +4,8 @@ slug: "coarse-commands-emitting-granular-events"
 date: "2022-01-27"
 summary: "In order to allow an event sourced software system to evolve I believe it to be important to issue coarse commands emitting granular events. In this post I explain why."
 references: 
-  - [[202201200000 event-sourced-aggregates]]
-  - [[202201270000 mapping-one-command-to-multiple-events]]
+  - '[[202201200000 event-sourced-aggregates]]'
+  - '[[202201270000 mapping-one-command-to-multiple-events]]'
 ---
 
 #software-development #dotnet

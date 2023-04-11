@@ -4,8 +4,8 @@ slug: "anxiety-depression-and-uncertainty"
 date: "2020-04-26"
 summary: ""
 references: 
-  - [[202301180000 how-there-is-no-longer-a-social-dimension-to-social-media]]
-  - [[202007200000 who-is-to-blame-for-suicide]]
+  - '[[202301180000 how-there-is-no-longer-a-social-dimension-to-social-media]]'
+  - '[[202007200000 who-is-to-blame-for-suicide]]'
 ---
 
 #psychology #ctrl-alt-del

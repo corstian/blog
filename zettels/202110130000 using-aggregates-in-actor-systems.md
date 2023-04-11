@@ -4,10 +4,10 @@ slug: "using-aggregates-in-actor-systems"
 date: "2021-10-13"
 summary: ""
 references: 
-  - [[202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain]]
-  - [[202206240000 how-complex-software-impacts-your-cognitive-abilities]]
-  - [[202201200000 event-sourced-aggregates]]
-  - [[202208050000 boring-complexity]]
+  - '[[202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain]]'
+  - '[[202206240000 how-complex-software-impacts-your-cognitive-abilities]]'
+  - '[[202201200000 event-sourced-aggregates]]'
+  - '[[202208050000 boring-complexity]]'
 ---
 
 #software-development

@@ -4,7 +4,7 @@ slug: "more-transparent-command-to-event-transformation"
 date: "2022-01-27"
 summary: "An improvement upon the previously proposed event sourced aggregate where command provides type information about its returned domain events."
 references: 
-  - [[202201200000 event-sourced-aggregates]]
+  - '[[202201200000 event-sourced-aggregates]]'
 ---
 
 #software-development #dotnet

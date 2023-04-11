@@ -4,9 +4,9 @@ slug: "high-performance-2d-radius-search"
 date: "2020-07-23"
 summary: ""
 references: 
-  - [[202010020000 improving-the-spatial-map-object]]
-  - [[201810080000 retrieving-all-polygons-that-overlap-a-single-point]]
-  - [[201902250000 representing-coordinates-in-a-human-readable-way]]
+  - '[[202010020000 improving-the-spatial-map-object]]'
+  - '[[201810080000 retrieving-all-polygons-that-overlap-a-single-point]]'
+  - '[[201902250000 representing-coordinates-in-a-human-readable-way]]'
 ---
 
 #software-development #dotnet #algorithms

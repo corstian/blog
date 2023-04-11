@@ -4,7 +4,7 @@ slug: "the-demise-of-a-family"
 date: "2020-12-16"
 summary: "In this post I describe how my introduction into a certain family ultimately led to the beginning of the end, slowly eroding the fundamentals currently defining the social dynamics within this family."
 references: 
-  - [[202110100000 the-paradox-of-the-rational-mind]]
+  - '[[202110100000 the-paradox-of-the-rational-mind]]'
 ---
 
 #psychology #ctrl-alt-del

@@ -4,8 +4,8 @@ slug: "mapping-one-command-to-multiple-events"
 date: "2022-01-27"
 summary: "Since it would be beneficial for commands to be able to issue multiple events reflecting its behaviour I modified an earlier approach to event sourced aggregates to allow this use-case."
 references: 
-  - [[202201200000 event-sourced-aggregates]]
-  - [[202201270000 coarse-commands-emitting-granular-events]]
+  - '[[202201200000 event-sourced-aggregates]]'
+  - '[[202201270000 coarse-commands-emitting-granular-events]]'
 ---
 
 #software-development #dotnet

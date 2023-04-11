@@ -4,7 +4,7 @@ slug: "about-self-identification-with-substance-abuse"
 date: "2020-12-21"
 summary: "Some thoughts around drug use, personal identification with it, and its pathway to addiction"
 references: 
-  - [[202007200000 who-is-to-blame-for-suicide]]
+  - '[[202007200000 who-is-to-blame-for-suicide]]'
 ---
 
 #psychology #ctrl-alt-del

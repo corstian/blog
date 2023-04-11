@@ -4,7 +4,7 @@ slug: "asp-net-core-2-1-and-graphql-adding-jwt-bearer-validation-to-subscription
 date: "2018-09-10"
 summary: ""
 references: 
-  - [[201903080000 implementing-pagination-with-graphql-net-and-relay]]
+  - '[[201903080000 implementing-pagination-with-graphql-net-and-relay]]'
 ---
 
 #software-development #dotnet #graphql
