@@ -4,7 +4,7 @@ slug: "achieving-one-billion"
 date: "2018-05-19"
 summary: ""
 references: 
-  - '[[201801230000 visualizing-airspace-usage-by-glider-aircraft]]'
+
 ---
 
 #software-development #skyhop #data-storage
