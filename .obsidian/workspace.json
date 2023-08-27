@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/2023/202308271338 Architectural improvisations.md",
+                "file": "zettels/202308271338 Architectural improvisations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/2023/202308271338 Architectural improvisations.md",
+                "file": "zettels/202308271338 Architectural improvisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/2023/202308271338 Architectural improvisations.md",
+                "file": "zettels/202308271338 Architectural improvisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/2023/202308271338 Architectural improvisations.md"
+                "file": "zettels/202308271338 Architectural improvisations.md"
               }
             }
           }
@@ -158,17 +158,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ceea65d58a418c1b",
+  "active": "c898cb2599900435",
   "lastOpenFiles": [
-    "zettels/2023/202301220000 using-the-object-capability-security-model-in-crud-applications.md",
-    "zettels/2023/202308271338 Architectural improvisations.md",
+    "zettels/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
+    "zettels/202201200000 event-sourced-aggregates.md",
+    "zettels/202101110000 mutation-design-with-graphql-dotnet.md",
+    "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
+    "zettels/201902110000 5-habits-for-writing-reliable-software.md",
+    "zettels/201801210000 xkcd-1110-homage.md",
+    "zettels/201705020000 cumulus-granitus-soaring-through-the-mountains.md",
+    "zettels/202308271338 Architectural improvisations.md",
+    "zettels/202301220000 using-the-object-capability-security-model-in-crud-applications.md",
     "zettels/202308271208 Re-inventing domain driven architectures.md",
-    "zettels/2023/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
-    "zettels/2023/202301160000 noisy-language-models.md",
-    "zettels/2023/202301180000 how-there-is-no-longer-a-social-dimension-to-social-media.md",
+    "zettels/202301160000 noisy-language-models.md",
+    "zettels/202301180000 how-there-is-no-longer-a-social-dimension-to-social-media.md",
     "zettels/202307032211 The composition of domain behaviour.md",
     "zettels/2015/201509120000 flying-at-the-wbac.md",
-    "zettels/2021/202102190000 react-forms-on-steroids.md",
+    "zettels/202102190000 react-forms-on-steroids.md",
     "zettels/202304140954 A declarative design model for domain driven development with .NET.md",
     "zettels/202304191706 The technical implementation details of the Whaally.Domain project.md",
     "zettels/202304120158 foundational building blocks of DDD.md",
@@ -186,12 +192,6 @@
     "zettels/202304161938.md",
     "zettels/202304120157 Aggregates in DDD.md",
     "zettels/202304161631 Error handling logic is bad!.md",
-    "zettels/2020/202003120000 asynchronous-streams-in-csharp-and-scrolling-through-elasticsearch-with-nest.md",
-    "zettels/2019/201910240000 graphql-api-design-cursors.md",
-    "zettels/2022/202208050000 boring-complexity.md",
-    "zettels/2020/202009290000 state-machines-for-realtime-data-processing.md",
-    "zettels/2018/201805190000 achieving-one-billion.md",
-    "zettels/2018/201809210000 converting-net-ticks-to-mssql-datetime-and-back.md",
     "zettels/2023",
     "zettels/2022",
     "zettels/2021",
