@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e821f07406f97d31",
+        "id": "2cc596405e1c47c1",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9bd043cb14baf8",
+            "id": "c898cb2599900435",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettels/2023/202308271338 Architectural improvisations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#VisionZero",
+                "query": "declarative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +63,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3077c7214b7acb37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettels/2023/202308271338 Architectural improvisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettels/2023/202308271338 Architectural improvisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettels/2023/202308271338 Architectural improvisations.md"
+              }
             }
           }
         ],
@@ -141,38 +158,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c9bd043cb14baf8",
+  "active": "ceea65d58a418c1b",
   "lastOpenFiles": [
-    "zettels/202208050000 boring-complexity.md",
-    "zettels/202304120151 test.md",
-    "templates/Zettel.md",
-    "Scripts/sluggify.js",
-    "Scripts",
-    "zettels/202007200000 who-is-to-blame-for-suicide.md",
-    "zettels/202003120000 asynchronous-streams-in-csharp-and-scrolling-through-elasticsearch-with-nest.md",
-    "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
-    "zettels/202301160000 noisy-language-models.md",
-    "zettels/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
-    "zettels/202207250000 how-to-effectively-observe-the-runtime-behaviour-of-your-core-domain.md",
-    "zettels/202207240000 what-is-event-sourcing.md",
-    "zettels/201408240000 luisterbieb-windows-phone-app.md",
-    "zettels/201509120000 flying-at-the-wbac.md",
-    "zettels/201705020000 cumulus-granitus-soaring-through-the-mountains.md",
-    "zettels/201712040000 school-assignment-magic-squares.md",
-    "zettels/201712060000 mountain-gliding-2015.md",
-    "zettels/201801210000 xkcd-1110-homage.md",
-    "zettels/201801220000 -net-core-application-not-logging-output-to-docker.md",
-    "zettels/201801230000 visualizing-airspace-usage-by-glider-aircraft.md",
-    "zettels/201804230000 scaffolding-an-existing-sql-database-with-entity-framework-core-in-5-minutes.md",
-    "zettels/201805190000 achieving-one-billion.md",
-    "zettels/201805120000 how-to-move-data-from-mssql-to-elasticsearch-at-galactic-speeds.md",
-    "zettels/201809100000 asp-net-core-2-1-and-graphql-adding-jwt-bearer-validation-to-subscriptions.md",
-    "zettels/201809140000 surface-book-2-issues-after-running-updates.md",
-    "zettels/201809190000 personal-notes-writing-performant-code-with-c.md",
-    "zettels/201905270000 rendering-razor-views-by-supplying-a-model-instance.md",
-    "zettels/201903080000 implementing-pagination-with-graphql-net-and-relay.md",
-    "zettels",
-    "data-v4.db",
+    "zettels/2023/202301220000 using-the-object-capability-security-model-in-crud-applications.md",
+    "zettels/2023/202308271338 Architectural improvisations.md",
+    "zettels/202308271208 Re-inventing domain driven architectures.md",
+    "zettels/2023/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
+    "zettels/2023/202301160000 noisy-language-models.md",
+    "zettels/2023/202301180000 how-there-is-no-longer-a-social-dimension-to-social-media.md",
+    "zettels/202307032211 The composition of domain behaviour.md",
+    "zettels/2015/201509120000 flying-at-the-wbac.md",
+    "zettels/2021/202102190000 react-forms-on-steroids.md",
+    "zettels/202304140954 A declarative design model for domain driven development with .NET.md",
+    "zettels/202304191706 The technical implementation details of the Whaally.Domain project.md",
+    "zettels/202304120158 foundational building blocks of DDD.md",
+    "zettels/202304200845 The distributed evaluation model of the Whaally.Domain library.md",
+    "zettels/~syncthing~202304200845 The distributed evaluation model of the Whaally.Domain library.md.tmp",
+    "zettels/202304192351 The Whaally.Domain Evaluation Model.md",
+    "zettels/2022/~syncthing~202206240000 how-complex-software-impacts-your-cognitive-abilities.md.tmp",
+    "zettels/~syncthing~202304191706 The technical implementation details of the Whaally.Domain project.md.tmp",
+    "zettels/202304191706.md",
+    "zettels/~syncthing~202304191706.md.tmp",
+    "zettels/~syncthing~202304140954 A declarative design model for domain driven development with .NET.md.tmp",
+    "zettels/202304170903 The conceptual - technical translation step in domain modelling.md",
+    "zettels/202304161637 The antipattern of implicit error handling logic.md",
+    "uploads/DomainStructure.drawio.svg",
+    "zettels/202304161938.md",
+    "zettels/202304120157 Aggregates in DDD.md",
+    "zettels/202304161631 Error handling logic is bad!.md",
+    "zettels/2020/202003120000 asynchronous-streams-in-csharp-and-scrolling-through-elasticsearch-with-nest.md",
+    "zettels/2019/201910240000 graphql-api-design-cursors.md",
+    "zettels/2022/202208050000 boring-complexity.md",
+    "zettels/2020/202009290000 state-machines-for-realtime-data-processing.md",
+    "zettels/2018/201805190000 achieving-one-billion.md",
+    "zettels/2018/201809210000 converting-net-ticks-to-mssql-datetime-and-back.md",
+    "zettels/2023",
+    "zettels/2022",
+    "zettels/2021",
+    "zettels/2020",
+    "zettels/2019",
     "uploads/IMG_2580_c7a12ed41a.jpg",
     "uploads/Group_of_People_01_c66bf70699.png",
     "uploads/medium_anotherscreenshot_c26aa44f25.png",
@@ -180,14 +204,6 @@
     "uploads/small_IMG_2580_8ebd15c5fd.jpg",
     "uploads/small_pexels_photo_241028_1a36a1ee62.jpeg",
     "uploads/medium_image_2022_01_31_15_37_48_cbd07dc567.png",
-    "uploads/small_2e6d6b17_39ac_4152_95e8_5d9824132220_x_4095_4095x_faaee53523.bmp",
-    "uploads/photo_2018_05_11_11_07_4_e826c8de11.jpg",
-    "uploads/thumbnail_48214193806_1b82ff1356_c_8b974702de.jpg",
-    "uploads/thumbnail_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
-    "uploads/670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
-    "uploads/large_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
-    "uploads/medium_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc",
-    "uploads/How_complex_software_impacts_your_cognitive_abilities_680d47d279.pdf",
-    "uploads/small_670922114_d22690d06ccd7d8cc64df28f621e8dbcc523dfcdbd1bc4376d6183e0634f5074_d_mw_3000_and_mh_1688_32feaf45bc"
+    "uploads/small_2e6d6b17_39ac_4152_95e8_5d9824132220_x_4095_4095x_faaee53523.bmp"
   ]
 }
