@@ -4,7 +4,6 @@ slug: "cumulus-granitus-soaring-through-the-mountains"
 date: "2017-05-02"
 summary: ""
 references: 
-  - '[[201801230000 visualizing-airspace-usage-by-glider-aircraft]]'
   - '[[201712060000 mountain-gliding-2015]]'
   - '[[201509120000 flying-at-the-wbac]]'
 ---

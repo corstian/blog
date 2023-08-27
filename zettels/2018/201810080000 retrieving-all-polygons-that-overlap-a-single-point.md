@@ -5,7 +5,6 @@ date: "2018-10-08"
 summary: ""
 references: 
   - '[[202007230000 high-performance-2d-radius-search]]'
-  - '[[201801230000 visualizing-airspace-usage-by-glider-aircraft]]'
 ---
 
 #software-development #dotnet
