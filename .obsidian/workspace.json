@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cc596405e1c47c1",
+        "id": "e510a144117112f3",
         "type": "tabs",
         "children": [
           {
-            "id": "c898cb2599900435",
+            "id": "d511ef084348dbce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/202308271338 Architectural improvisations.md",
+                "file": "zettels/202309031053 Delivering complete code.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "right": {
     "id": "3450704d01aaf027",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/202308271338 Architectural improvisations.md",
+                "file": "zettels/202309031053 Delivering complete code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/202308271338 Architectural improvisations.md",
+                "file": "zettels/202309031053 Delivering complete code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/202308271338 Architectural improvisations.md"
+                "file": "zettels/202309031053 Delivering complete code.md"
               }
             }
           }
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,16 +160,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c898cb2599900435",
+  "active": "d511ef084348dbce",
   "lastOpenFiles": [
+    "Slide57.png",
+    "uploads/infrastructural-overview.svg",
+    "zettels/202309031053 Delivering complete code.md",
+    "uploads/Slide32.png",
+    "uploads/Slide31.png",
+    "zettels/201712060000 mountain-gliding-2015.md",
+    "zettels/2017/201712060000 mountain-gliding-2015.md",
+    "zettels/2017/201705020000 cumulus-granitus-soaring-through-the-mountains.md",
+    "zettels/201705020000 cumulus-granitus-soaring-through-the-mountains.md",
+    "zettels/202308271338 Architectural improvisations.md",
+    "zettels/2017",
     "zettels/202301150000 the-benefits-of-constraints-in-a-layered-architecture.md",
     "zettels/202201200000 event-sourced-aggregates.md",
     "zettels/202101110000 mutation-design-with-graphql-dotnet.md",
     "zettels/202001070000 sending-transactional-emails-from-asp-net-core.md",
     "zettels/201902110000 5-habits-for-writing-reliable-software.md",
     "zettels/201801210000 xkcd-1110-homage.md",
-    "zettels/201705020000 cumulus-granitus-soaring-through-the-mountains.md",
-    "zettels/202308271338 Architectural improvisations.md",
     "zettels/202301220000 using-the-object-capability-security-model-in-crud-applications.md",
     "zettels/202308271208 Re-inventing domain driven architectures.md",
     "zettels/202301160000 noisy-language-models.md",
@@ -186,24 +197,16 @@
     "zettels/202304191706.md",
     "zettels/~syncthing~202304191706.md.tmp",
     "zettels/~syncthing~202304140954 A declarative design model for domain driven development with .NET.md.tmp",
-    "zettels/202304170903 The conceptual - technical translation step in domain modelling.md",
-    "zettels/202304161637 The antipattern of implicit error handling logic.md",
     "uploads/DomainStructure.drawio.svg",
-    "zettels/202304161938.md",
-    "zettels/202304120157 Aggregates in DDD.md",
-    "zettels/202304161631 Error handling logic is bad!.md",
     "zettels/2023",
     "zettels/2022",
     "zettels/2021",
     "zettels/2020",
-    "zettels/2019",
     "uploads/IMG_2580_c7a12ed41a.jpg",
     "uploads/Group_of_People_01_c66bf70699.png",
     "uploads/medium_anotherscreenshot_c26aa44f25.png",
     "uploads/large_sketch_1_b6c77e72b9.png",
     "uploads/small_IMG_2580_8ebd15c5fd.jpg",
-    "uploads/small_pexels_photo_241028_1a36a1ee62.jpeg",
-    "uploads/medium_image_2022_01_31_15_37_48_cbd07dc567.png",
-    "uploads/small_2e6d6b17_39ac_4152_95e8_5d9824132220_x_4095_4095x_faaee53523.bmp"
+    "uploads/small_pexels_photo_241028_1a36a1ee62.jpeg"
   ]
 }
