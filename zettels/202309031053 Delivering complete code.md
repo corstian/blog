@@ -1,6 +1,6 @@
 ---
 title: "Delivering complete code"
-slug: "202309031053"
+slug: "202309031053-delivering-complete-code"
 date: "2023-09-03"
 summary: ""
 references: 
